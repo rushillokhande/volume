@@ -1,5 +1,4 @@
 
-/*
 #include<iostream>
     using namespace std;
     float vol(int,int);
@@ -33,4 +32,4 @@
     {
         return(a*a*a);
     }
-*/
+
